@@ -27,13 +27,13 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 #### Video of required features
-<img src="assets/gifs/crowdfunded-functions.gif" title='Video Walkthrough Required' width='50vw' alt='Video Walkthrough' />
+<img src="assets/gifs/crowdfunded-functions.gif" title='Video Walkthrough Required' width=700 alt='Video Walkthrough' />
 
 #### Video of button and search
-<img src="assets/gifs/search-prework.gif" title='Video Walkthrough Button and Search' width='50vw' alt='Button and Search' />
+<img src="assets/gifs/search-prework.gif" title='Video Walkthrough Button and Search' width=700 alt='Button and Search' />
 
 #### Video of nav and media query feature
-<img src="assets/gifs/nav-media-prework-2.gif" title='Video Walkthrough Nav and Media Query' width='50vw' alt='Nav and Media Query' />
+<img src="assets/gifs/nav-media-prework-2.gif" title='Video Walkthrough Nav and Media Query' width=700 alt='Nav and Media Query' />
 
 
 
